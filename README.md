@@ -1,0 +1,1 @@
+Game **Gibbet**. Simple client-server app created using sockets. Main rule of this game is to guess word in ten attempts, in my version user have to guess number from 1 to 100. This app use console interface.  
